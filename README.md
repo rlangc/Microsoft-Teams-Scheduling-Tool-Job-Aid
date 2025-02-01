@@ -30,7 +30,7 @@ This job aid provides a step-by-step guide on how to schedule and send a meeting
 <img src="https://imgur.com/XrxXxMv.png" height="80%" width="80%" alt="Microsoft Teams Scheduling Tool"/>
 <br />
 <br />
-<img src="https://imgur.com/6TGUoh5.png" height="80%" width="80%" alt="Microsoft Teams Scheduling Tool"/>
+<img src="https://imgur.com/h75xpfs.png" height="80%" width="80%" alt="Microsoft Teams Scheduling Tool"/>
 
  
   <h2></h2>
