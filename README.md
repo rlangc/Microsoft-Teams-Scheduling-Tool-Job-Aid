@@ -32,7 +32,6 @@ This job aid provides a step-by-step guide on how to schedule and send a meeting
 <br />
 <img src="https://imgur.com/h75xpfs.png" height="80%" width="80%" alt="Microsoft Teams Scheduling Tool"/>
 
- 
-  <h2></h2>
+<h2></h2>
 <p align="center">
-  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
